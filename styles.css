@@ -7,7 +7,7 @@ h1 {
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 #FA2FB5;
 
 }
 
@@ -17,31 +17,31 @@ footer {
 }
 
 .w {
-background-image: url("images/tom1.png");
+background-image: url("images/cute.jpg");
 }
 
 .a {
-background-image: url("images/tom2.png");
+background-image: url("images/grumpy.jpg");
 }
 
 .s {
-background-image: url("images/tom3.png");
+background-image: url("images/smiling.jpg");
 }
 
 .d {
-background-image: url("images/tom4.png");
+background-image: url("images/purring.jpg");
 }
 
 .j {
-background-image: url("images/snare.png");
+background-image: url("images/angry.jpg");
 }
 
 .k {
-background-image: url("images/crash.png");
+background-image: url("images/eyes-cat.jpg");
 }
 
 .l {
-background-image: url("images/kick.png");
+background-image: url("images/tired.jpg");
 }
 
 .set {
@@ -65,17 +65,25 @@ background-image: url("images/kick.png");
 .drum {
   outline: none;
   border: 10px solid #404B69;
-  font-size: 5rem;
+  font-size: 2.5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
-  text-shadow: 3px 0 #DBEDF3;
+  color: #fff;
+  text-shadow: 3px 0 #FA2FB5;
   border-radius: 15px;
   display: inline-block;
   width: 150px;
   height: 150px;
   text-align: center;
   margin: 10px;
-  background-color: white;
+  background-color: black;
+  background-repeat: no-repeat;
+
+}
+
+.letter {
+  width: 150px;
+  height: 150px;
+  text-align: center;
 }
