@@ -1,3 +1,3 @@
-# DrumKit - play with the help of the keys or the keyboard
+# CatShow - play with the help of the keys or the keyboard
 HTML, CSS, JAVASCRIPT
-# DrumKit website link: https://bhadzic2.github.io/CatShow/
+# CatShow website link: https://bhadzic2.github.io/CatShow/
